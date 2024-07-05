@@ -15,7 +15,7 @@ This project uses a YOLOv8 model to detect and track various types of IDs in rea
 
 3. Run the script:
    ```sh
-   python id_detection.py
+   python id-detection.py
 
 ## Requirements
 1. Python 3.x

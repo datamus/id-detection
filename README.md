@@ -6,8 +6,8 @@ This project uses a YOLOv8 model to detect and track various types of IDs in rea
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/datamus/id-detector.git
-   cd id-detector
+   git clone https://github.com/datamus/id-detection.git
+   cd id-detection
 
 2. Install the required dependencies:
    ```sh

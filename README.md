@@ -6,8 +6,8 @@ This project uses a YOLOv8 model to detect and track various types of IDs in rea
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ID-Detection-Webcam.git
-   cd ID-Detection-Webcam
+   git clone https://github.com/datamus/id-detector.git
+   cd id-detector
 
 2. Install the required dependencies:
    ```sh
@@ -18,9 +18,9 @@ This project uses a YOLOv8 model to detect and track various types of IDs in rea
    python src/id_detection.py
 
 ## Requirements
--- Python 3.x
--- OpenCV
--- Ultralytics YOLO
+1. Python 3.x
+2. OpenCV
+3. Ultralytics YOLO
 
 ## Description
 This script utilizes the YOLOv8 model to detect and track various types of IDs (such as passports, driver's licenses, etc.) in real-time using a webcam feed. The process involves the following steps:
